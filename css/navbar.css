@@ -1,0 +1,47 @@
+/* =====================================
+            NAVBAR
+===================================== */
+
+.navbar{
+
+    width:90%;
+    max-width:1400px;
+
+    margin:auto;
+    padding:24px 0;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+}
+
+.logo{
+
+    font-family:var(--font-heading);
+    font-size:1.6rem;
+    letter-spacing:3px;
+
+}
+
+.logo a{
+
+    text-decoration:none;
+    color:var(--text-primary);
+
+}
+
+
+
+.nav-menu{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    align-items: center;
+}
+
+.nav-menu a:hover{
+
+    color:var(--text-primary);
+
+}

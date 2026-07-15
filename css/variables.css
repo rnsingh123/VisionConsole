@@ -1,0 +1,43 @@
+/* ==========================================
+   VisionConsole Design System
+========================================== */
+
+:root{
+
+    /* ==========================
+       Typography
+    ========================== */
+
+    --font-heading: "Times New Roman", Times, serif;
+    --font-body: "Manrope", sans-serif;
+
+    /* ==========================
+       Background Colors
+    ========================== */
+
+    --background-primary: #F6F2EA;
+    --background-secondary: #EFE8DC;
+    --background-card: #FFFFFF;
+
+    /* ==========================
+       Text Colors
+    ========================== */
+
+    --text-primary: #1D2FA3;
+    --text-secondary: #3D4DB8;
+    --text-muted: #6A73B5;
+
+    /* ==========================
+       Accent
+    ========================== */
+
+    --accent-primary: #D44A43;
+    --accent-hover: #B93D37;
+
+    /* ==========================
+       Border
+    ========================== */
+
+    --border-color: #D8D1C6;
+
+}
